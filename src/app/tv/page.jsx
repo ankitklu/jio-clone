@@ -1,9 +1,9 @@
 import React from 'react'
 
-function TV() {
+function tv() {
     return (
         <div>TV</div>
     )
 }
 
-export default TV
+export default tv

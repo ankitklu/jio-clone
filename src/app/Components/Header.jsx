@@ -30,7 +30,7 @@ export default function Header() {
         <Link href="/movies" className="hover:text-gray-300">Movies</Link>
         <Link href="/tv" className="hover:text-gray-300">Tv Shows</Link>
         <Link href="/watchlist" className="text-pink-500 border-b-2 border-pink-500 pb-1">Watchlist</Link>
-        <Link href="/jio-plus" className="hover:text-gray-300">Jio+</Link>
+        <Link href="/jio+" className="hover:text-gray-300">Jio+</Link>
       </nav>
       <div className="flex items-center space-x-4">
         <form className="relative">
